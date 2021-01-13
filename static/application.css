@@ -1,5 +1,5 @@
 body {
-	background: #002B36;
+	background: #A8D0E6;
 	padding: 20px 50px;
 	margin: 0px;
 }
@@ -65,11 +65,11 @@ textarea {
 #box1 {
 	padding: 5px;
 	text-align: center;
-	background: #00222b;
+	background: #A8D0E6;
 }
 
 #box2 {
-	background: #1abc9c;
+	background: #A8D0E6;
 	font-size: 0px;
 	padding: 0px 0px;
 }
