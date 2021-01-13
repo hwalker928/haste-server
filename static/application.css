@@ -69,9 +69,9 @@ textarea {
 }
 
 #box2 {
-	background: #08323c;
+	background: #1abc9c;
 	font-size: 0px;
-	padding: 0px 5px;
+	padding: 0px 0px;
 }
 
 #box1 a.logo, #box1 a.logo:visited {
@@ -86,9 +86,9 @@ textarea {
 }
 
 #box2 .function {
-	background: url(function-icons.png);
-	width: 32px;
-	height: 37px;
+	background: url(save.png);
+	width: 64px;
+	height: 64px;
 	display: inline-block;
 	position: relative;
 }
